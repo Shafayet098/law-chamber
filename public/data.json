@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Barrister Ahsan Rahman",
+    "experience": "12 years",
+    "availability": ["sunday", "monday", "tuesday", "wednesday", "thursday"],
+    "license_no": "BD-LAW-10234",
+    "consultation_fee": 3000,
+    "expertise_sector": "Corporate Law",
+    "image": "https://i.ibb.co.com/Qv1bK3ph/tiger.png"
+  },
+  {
+    "id": 2,
+    "name": "Advocate Farhan Kabir",
+    "experience": "8 years",
+    "availability": ["monday", "tuesday", "wednesday"],
+    "license_no": "BD-LAW-11892",
+    "consultation_fee": 2000,
+    "expertise_sector": "Family Law",
+    "image": "https://i.ibb.co.com/Qv1bK3ph/tiger.png"
+  },
+  {
+    "id": 3,
+    "name": "Barrister Imtiaz Chowdhury",
+    "experience": "15 years",
+    "availability": ["sunday", "monday", "tuesday", "wednesday", "thursday"],
+    "license_no": "BD-LAW-09451",
+    "consultation_fee": 3500,
+    "expertise_sector": "Criminal Law",
+    "image": "https://i.ibb.co.com/Qv1bK3ph/tiger.png"
+  },
+  {
+    "id": 4,
+    "name": "Advocate Mahmud Hasan",
+    "experience": "6 years",
+    "availability": ["tuesday", "wednesday", "thursday", "friday", "saturday"],
+    "license_no": "BD-LAW-13220",
+    "consultation_fee": 1800,
+    "expertise_sector": "Property Law",
+    "image": "https://i.ibb.co.com/Qv1bK3ph/tiger.png"
+  },
+  {
+    "id": 5,
+    "name": "Barrister Rezaul Karim",
+    "experience": "18 years",
+    "availability": ["sunday", "monday", "tuesday", "wednesday"],
+    "license_no": "BD-LAW-07112",
+    "consultation_fee": 4000,
+    "expertise_sector": "Tax Law",
+    "image": "https://i.ibb.co.com/Qv1bK3ph/tiger.png"
+  },
+  {
+    "id": 6,
+    "name": "Advocate Shafiq Hasan",
+    "experience": "10 years",
+    "availability": ["monday", "tuesday", "wednesday", "thursday"],
+    "license_no": "BD-LAW-11045",
+    "consultation_fee": 2500,
+    "expertise_sector": "Civil Litigation",
+    "image": "https://i.ibb.co.com/Qv1bK3ph/tiger.png"
+  },
+  {
+    "id": 7,
+    "name": "Barrister Tanvir Ahmed",
+    "experience": "9 years",
+    "availability": ["sunday", "monday", "tuesday", "wednesday", "thursday"],
+    "license_no": "BD-LAW-12567",
+    "consultation_fee": 2700,
+    "expertise_sector": "Immigration Law",
+    "image": "https://i.ibb.co.com/Qv1bK3ph/tiger.png"
+  },
+  {
+    "id": 8,
+    "name": "Advocate Mahfuz Islam",
+    "experience": "7 years",
+    "availability": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+    "license_no": "BD-LAW-14003",
+    "consultation_fee": 1900,
+    "expertise_sector": "Labor Law",
+    "image": "https://i.ibb.co.com/Qv1bK3ph/tiger.png"
+  },
+  {
+    "id": 9,
+    "name": "Barrister Samiul Haque",
+    "experience": "14 years",
+    "availability": ["sunday", "monday", "tuesday", "wednesday"],
+    "license_no": "BD-LAW-08839",
+    "consultation_fee": 3600,
+    "expertise_sector": "Intellectual Property",
+    "image": "https://i.ibb.co.com/Qv1bK3ph/tiger.png"
+  },
+  {
+    "id": 10,
+    "name": "Advocate Rafiq Uddin",
+    "experience": "5 years",
+    "availability": ["tuesday", "wednesday", "thursday", "friday", "saturday"],
+    "license_no": "BD-LAW-15021",
+    "consultation_fee": 1500,
+    "expertise_sector": "Consumer Rights Law",
+    "image": "https://i.ibb.co.com/Qv1bK3ph/tiger.png"
+  }
+]
