@@ -6,6 +6,7 @@ import { getItemFormLocalStorage, removeItemFromLocalStorage } from '../LocalSto
 import { Link, useLoaderData } from 'react-router';
 import BookingContainer from './BookingContainer';
 import { toast } from 'react-toastify';
+import { Helmet } from 'react-helmet';
 
 
 const margin = {
@@ -65,9 +66,9 @@ const Booking = () => {
 
     return (
         <>
-            {/* <Helmet>
-                <title>Booking</title>
-            </Helmet> */}
+            <Helmet>
+                <title>Law.bd | Booking</title>
+            </Helmet>
             <div>
                 {
                     bookings.length === 0 ?
