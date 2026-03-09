@@ -12,10 +12,10 @@ const NavBar = () => {
 
     // },[location.pathname])
     const link = <>
-            <NavLink className={'btn'} to={'/'}>Home</NavLink>
-            <NavLink className={'btn'} to={'/booking'}>Booking</NavLink>
-            <NavLink className={'btn'} to={'/blogs'}>Blogs</NavLink>
-            <NavLink className={'btn'} to={'/contact'}>Contact Us</NavLink>
+            <NavLink className={'btn bg-transparent shadow-none border-none rounded-none p-2 hover:bg-gray-200'} to={'/'}>Home</NavLink>
+            <NavLink className={'btn bg-transparent shadow-none border-none rounded-none p-2 hover:bg-gray-200'} to={'/booking'}>Booking</NavLink>
+            <NavLink className={'btn bg-transparent shadow-none border-none rounded-none p-2 hover:bg-gray-200'} to={'/blogs'}>Blogs</NavLink>
+            <NavLink className={'btn bg-transparent shadow-none border-none rounded-none p-2 hover:bg-gray-200'} to={'/contact'}>Contact Us</NavLink>
         </>
 
     return (
